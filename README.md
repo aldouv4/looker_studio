@@ -1,5 +1,5 @@
 # looker_studio
-projects made in looker studio
+Projects made in looker studio
 
 https://lookerstudio.google.com/reporting/c8af9d05-1c5a-4526-8fbb-ee8ca7c9c92b
 
