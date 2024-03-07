@@ -1,7 +1,7 @@
 # looker_studio
 Projects made in looker studio
 
-https://lookerstudio.google.com/reporting/c8af9d05-1c5a-4526-8fbb-ee8ca7c9c92b
+https://lookerstudio.google.com/reporting/799ca814-4276-44ef-8e96-3793f64c1125
 This project was made to evaluate final production yield in a shrimp farm with different products: feed brand and automatic feeders.
 The results show that feeder D performs better than the others giving 19% higher biomass per hectarea than traditional method and 3% relative to other feeders brand. 
 Also, feeder D make posible use 10% lees feed kilograms to produce 1 kg of shrimp than others feeders brand and 11% less than traditional method.
